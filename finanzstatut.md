@@ -15,8 +15,6 @@ output: pdf_document
 github-tag: 170128
 ---
 
-# Finanzstatut der JEF Sachsen
-
 ## I. BEITRÄGE
 ### § 1 Beitragshöhe
 1. Der Landesverband der Jungen Europäischen Föderalisten Sachsen erhebt einen Jahresmitgliedsbeitrag von 24 Euro.
