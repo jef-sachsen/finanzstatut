@@ -31,7 +31,7 @@ Die Zahlung des Jahresbeitrags erfolgt unbar. 
 2. Die Summe der beiden Beiträge ist von der Höhe des Jahresbeitrages abzuziehen. Der Rest verbleibt dem Landesverband. Über die Verwendung entscheidet der Landesvorstand.
 3. Wenn die Abwicklung des Mitgliedsbeitrags über die EUD Sachsen erfolgt, kann geregelt werden, dass die EUD Sachsen die Beiträge an die JEF Deutschland und JEF Europe abführt.
 
-###§ 4 Fristen und Stichtage
+### § 4 Fristen und Stichtage
 1. Neumitglieder müssen nach Aufnahme in die JEF Sachsen binnen eines Monats ihren Mitgliedsbeitrag überweisen.
 2. Der Mitgliedsbeitrag für die bestehenden Mitglieder der JEF Sachsen werden vom Landesverband spätestens bis zum 01. März jedes Jahres eingezogen.
 3. Mitglieder haben eine Kontoänderung anzuzeigen. Kosten, die durch Nichterfüllung dieser Pflicht enstehen (zB Rückbuchungskosten), werden auf das betroffene Mitglieder umgelegt.
