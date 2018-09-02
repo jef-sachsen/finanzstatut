@@ -1,6 +1,21 @@
-# Finanzstatut der JEF Sachsen
+---
+title: "Finanzstatut der JEF Sachsen"
+subtitle: "Stand 28.01.2017"
+documentclass: scrartcl
+geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
+toc: yes
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[LO,LE]{JEF Sachsen}
+- \fancyhead[CO,CE]{}
+- \fancyhead[RO,RE]{Stand 28.01.2017}
+- \fancyfoot[CO,CE]{\thepage}
+output: pdf_document
+github-tag: 170128
+---
 
-Stand: 28.01.2017
+# Finanzstatut der JEF Sachsen
 
 ## I. BEITRÄGE
 ### § 1 Beitragshöhe
